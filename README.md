@@ -7,3 +7,11 @@ Scripts I use in my day-to-day life that I don't want to Google for
 ```zsh
 python -m venv /path/to/new/virtual/environment
 ```
+
+### Activate the environment
+
+#### MacOS
+```zsh
+source ./venv/bin/activate
+```
+
